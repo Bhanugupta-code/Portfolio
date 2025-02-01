@@ -3,7 +3,7 @@ import f1 from '../assets/react.svg'
 
 const ProjectCards = ({ title , main ,demo ,img ,code }) => {
   return (
-    <div className='p-3 mx-auto md:p-6 flex flex-col w-72 bg-[#0c01e9] shadow-xl shadow-slate-900 rounded-2xl'>
+    <div className='p-3 pb-0 mx-auto mt-5 md:p-6 md:pb-0 flex flex-col w-1/4 bg-[#0c0b1c4d] shadow-xl shadow-slate-900 rounded-2xl'>
         <img className='p-3 mx-auto rounded-3xl w-60 h-48' src={img} alt="" />   
         <h3 className='px-4 text-xl md:text-2xl font-bold leading-normal'>
         {title}
