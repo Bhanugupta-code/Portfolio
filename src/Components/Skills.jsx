@@ -3,7 +3,7 @@ import { RiTailwindCssFill } from '@remixicon/react';
 import { FaCss3 , FaHtml5 , FaJs , FaReact ,FaBootstrap , FaGoogle , } from 'react-icons/fa';
 const Skills = () => {
   return (
-    <div id='Skills' className='p-10 md:p-10'>
+    <div id='Skills' className='p-10 max-w-screen-2xl mx-auto md:p-10'>
         <h1 className='text-2xl text-white md:text-4xl font-bold'>Skills</h1>
         <div className="flex flex-wrap justify-center items-center">
         <div className="flex flex-wrap md:w-2/3 gap-8 p-12 pt-10 pb-2">
