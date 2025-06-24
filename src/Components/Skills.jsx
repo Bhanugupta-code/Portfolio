@@ -1,4 +1,5 @@
 import React from 'react'
+import { SiExpress, SiMongodb  } from "react-icons/si";
 import { RiTailwindCssFill } from '@remixicon/react';
 import { FaCss3 , FaHtml5 , FaJs , FaReact ,FaBootstrap , FaGoogle , } from 'react-icons/fa';
 const Skills = () => {
@@ -24,6 +25,12 @@ const Skills = () => {
         </span>
         <span className='p-3 bg-zinc-950 flex items-center rounded-2xl'>
             <RiTailwindCssFill color='#2563eb' size={50} />
+        </span>
+         <span className='p-3 bg-zinc-950 flex items-center rounded-2xl'>
+            <SiExpress color='#FFFFFF' size={50} />
+        </span>
+         <span className='p-3 bg-zinc-950 flex items-center rounded-2xl'>
+            <SiMongodb  color='#3FA037' size={50} />
         </span>
         </div>   
        
