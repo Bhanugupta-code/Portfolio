@@ -14,7 +14,7 @@ const Projects = () => {
         <ProjectCards title="E-commerce web" code="https://github.com/Bhanugupta-code/QTNReactAssignment" img={web} main="This app is made in react with Tailwind." demo="https://qtn-react-assignment.vercel.app/" />
         <ProjectCards title="Todo App" code="https://github.com/Bhanugupta-code/Todo-app" img={todo} main="This app is made in react with local storage." demo="https://todo-six-gules.vercel.app/" />
         <ProjectCards title="Designer Studio" img={designer} demo="https://designer-studio-five.vercel.app/" code="https://github.com/Bhanugupta-code/Designer-Studio"  main="This is the cloned of the mulberry art website. This website is made in react ."/>
-        <ProjectCards title="Click N Buy" code="https://github.com/Bhanugupta-code/clickNbuy" img={clickNbuy} main="This app is made in react with bootstrap." demo="https://click-nbuy.vercel.app/" />
+        <ProjectCards title="Click N Buy" code="https://github.com/Bhanugupta-code/clickNbuy" img={clickNbuy} main="This app is made in react with bootstrap." demo="https://clicknbuy-beryl.vercel.app/" />
         <ProjectCards title="Task Manager" img={Task} demo="https://task-manager-liart-beta.vercel.app/" code="https://github.com/Bhanugupta-code/Task-Manager"  main="This is the Enhanced version of Todo app with additional functionality moving task and give priority to task."/>
         </div>
       
